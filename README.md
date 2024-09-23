@@ -1,2 +1,41 @@
-# DSCI-8133
-This is a playground for MSU's DSCI-8133 courseworks.
+# DSCI-8133 Experiment
+This is a playground for MSU's DSCI-8133 courseworks. In this repository, we will explore the data, learn to pre-process them to ease the analysis, standarize them and using various tools and modeling technique, we will model them. 
+
+This may include ( but not limited to ) : 
+
+- Collection of data sources
+- Pre-processing steps
+- Structured folder for hosting different data
+- Jupyter Notebook
+- Visualization of the data
+- Some possible reports
+- Number of research papers related to the project.
+
+-----------------------------------
+
+## Plan
+Although, not everything about the upcoming projects have been decided, we might use the [NACC data](https://naccdata.org/) for Alzheimer's research. We will also use [Jupyter Notebook](https://jupyter.org/) for exploration and various steps that we may need to adopt to be finally be able to model the data. We may also use [statmodels](https://www.statsmodels.org/stable/index.html) and [Matplotlib](https://matplotlib.org/) packages from Python during the analysis. Once we come to the part of Machine learning in the course, we may adopt some methods from ML esepcially *Deep learning*.
+
+--------------------------
+
+## About the Author 
+
+Currently a student at MSU, interested in the field of **Mathematics, AI, Data Science and Computational Science** in general. Just excited about how we can leverage the data to make more informed planning, execution and decision to avoid the pitfalls, sometimes data can be life-saving, when we use for noble cause. This is largly true in biology and so too in other fields as well. I'm excited how the field of data science is rapidly evovling, one of my latest excitement is [Alpha fold 3](https://deepmind.google/technologies/alphafold/). It's amazing what this technology can empower. 
+
+### I'm famalier with : 
+
+- Mathematical Modelling
+- Traditional Machine Learning Algorithms such as ( *Decision Tree, Random Forest, Logistic Regression etc*)
+- Deep learning
+- Simulation tools such as Compucell3d
+- Programming Languages such as Python, C++, Julia, Matlab
+
+### Some of the frameworks I'm comfortable with : 
+- Pytorch
+- Tensorflow
+- Pandas
+- Numpy
+- Sci-kit Learn
+- Statmodels
+
+  
