@@ -38,4 +38,4 @@ Currently a student at MSU, interested in the field of **Mathematics, AI, Data S
 - Sci-kit Learn
 - Statmodels
 
-  
+![An AI generated image of a Data Scientist at his desk ](programmer-contours.png)
